@@ -1,4 +1,4 @@
-# nikita-tap
+# homebrew-tap
 
 A [Homebrew](https://brew.sh) tap for my macOS apps.
 
@@ -7,7 +7,7 @@ A [Homebrew](https://brew.sh) tap for my macOS apps.
 ### [Foretype](https://github.com/nikitaclicks/foretype) — menu-bar inline autocomplete
 
 ```sh
-brew install --cask nikitaclicks/nikita-tap/foretype
+brew install --cask nikitaclicks/tap/foretype
 ```
 
 Foretype is not notarized; the cask strips the `com.apple.quarantine`
