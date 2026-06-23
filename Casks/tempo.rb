@@ -1,6 +1,6 @@
 cask "tempo" do
-  version "0.1.0"
-  sha256 "5763db3507a2df2bb28ffd416fd534ef9c82f4e683074a41e9075a5d171d2f48"
+  version "0.1.1"
+  sha256 "0184734bcc46f8e0f6a9ebe5beccfb9bc4cff8e5727282433a67a94b133f5cd7"
 
   url "https://github.com/nikitaclicks/tempo/releases/download/v#{version}/Tempo-v#{version}.zip"
   name "Tempo"
